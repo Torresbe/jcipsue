@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-28T20:28:53.693Z",
+  "created_by": "Torresbe",
+  "title": "sample-1",
+  "slug": "sample-1",
+  "updated_at": "2025-02-28T20:28:53.693Z",
+  "updated_by": "Torresbe",
+  "parent": "f5d7dbe5-6d0b-46f2-8c2f-3cdb5f33c924",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "166e08e7-e535-4d14-8f15-a6180189b399"
+  }
+}
