@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "bbb5c89e-8a52-474b-9b1f-d01cef3ebf98": {
+      "label": "Instrucciones",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=3zvy0SO4ChI",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Julio Cortázar y sus erres en las escaleras",
+  "created_at": "2025-02-28T20:52:52.263Z",
+  "created_by": "Torresbe",
+  "updated_at": "2025-02-28T20:52:52.263Z",
+  "updated_by": "Torresbe"
+}
