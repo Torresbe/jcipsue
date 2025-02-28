@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Torresbe",
+    "is_private": false,
+    "title": "instruccionespara subir una escalera",
+    "description": "Instrucciones para subir una eacalera leída por el escritor",
+    "language": "en",
+    "slug": "jcipsue",
+    "creator": "Torresbe",
+    "authors": "Catalina Torres Benjumea",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-02-28T20:22:37.384Z",
+    "updated_at": "2025-02-28T20:22:37.384Z"
   }
 }
